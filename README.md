@@ -34,8 +34,8 @@ Python · Streamlit · LangChain · FAISS · Ollama · PyPDF
 
 2. Clone o repositório e instale as dependências:
    ```bash
-   git clone https://github.com/JoaoJordao27/Assistente_CPROI.git
-   cd Assistente_CPROI
+   git clone https://github.com/JoaoJordao27/local-rag-study-assistant.git
+   cd local-rag-study-assistant
    python -m venv .venv
    .venv\Scripts\activate        # Windows
    pip install -r requirements.txt
